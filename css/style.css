@@ -7,11 +7,11 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    margin-top: 10%;
+    margin-top: 5%;
 }
 
 .board{
-    margin-top: 5%;
+    margin-top: 2%;
     display: grid;
     justify-content: center;
     grid-template-columns: repeat(3,auto);
